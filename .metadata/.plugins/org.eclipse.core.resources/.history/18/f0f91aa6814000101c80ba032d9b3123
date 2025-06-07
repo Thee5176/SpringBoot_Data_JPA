@@ -1,0 +1,7 @@
+spring.application.name=SpringDataJPA
+
+spring.datasource.url=jdbc:mysql://localhost:3306/library
+spring.datasource.username=library_admin
+spring.datasource.password=502286
+
+spring.jpa.hibernate.ddl-auto=update
